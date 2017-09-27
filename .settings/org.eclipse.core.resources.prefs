@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/front/talk.jsp=UTF-8
+encoding//WebRoot/resources/js/back/list.js=UTF-8
+encoding//WebRoot/resources/js/front/talk.js=UTF-8
+encoding//src/com/imooc/bean/Command.java=UTF-8
+encoding//src/com/imooc/bean/CommandContent.java=UTF-8
+encoding//src/com/imooc/dao/CommandContentDao.java=UTF-8
+encoding//src/com/imooc/dao/CommandDao.java=UTF-8
+encoding//src/com/imooc/entity/Page.java=UTF-8
+encoding//src/com/imooc/interceptor/PageInterceptor.java=UTF-8
+encoding//src/com/imooc/service/QueryService.java=UTF-8
+encoding//src/com/imooc/servlet/AutoReplyServlet.java=UTF-8
+encoding//src/com/imooc/util/Iconst.java=UTF-8
